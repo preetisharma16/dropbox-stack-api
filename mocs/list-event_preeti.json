@@ -1,0 +1,7 @@
+{
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "admin@admin.com"
+    }
+  }
+}
