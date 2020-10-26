@@ -1,5 +1,3 @@
-# Serverless Node.js Starter
-
 ### Requirements
 
 - [Install the Serverless Framework](https://serverless.com/framework/docs/providers/aws/guide/installation/)
